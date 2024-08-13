@@ -50,7 +50,7 @@ export default function Home() {
                                    repeat={Infinity}
                                    className='text-3xl font-bold z-20 relative'
                               />
-                              <h1 className='z-20 relative'>Fernando's Journal</h1>
+                              <h1 className='z-20 relative'>{`Fernando's Journal`}</h1>
                          </div>
                     </div>
                     <div
