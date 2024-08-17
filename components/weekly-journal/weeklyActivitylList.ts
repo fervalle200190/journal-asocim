@@ -1,15 +1,16 @@
 import { WeeklyActivityList } from "./WeeklyJournalList"
 
+
 export const weeklyActivityList: WeeklyActivityList = [
      {
           weekDayName: "Monday",
           activities: [
-               "Wake up at 6:00 AM",
+               "I often wake up at 6:00 AM",
                "Have breakfast",
                "Take a shower",
                "Go to work at 8:00 AM",
                "Finish work at 5:00 PM",
-               "Then go the gym",
+               "Then I usually go the gym",
                "Have dinner",
                "Go to bed at 10:00 PM",
           ],
@@ -17,21 +18,21 @@ export const weeklyActivityList: WeeklyActivityList = [
      {
           weekDayName: "Tuesday",
           activities: [
-               "Wake up at 7:00 AM",
+               "Wake up at 6:00 AM",
                "Have breakfast",
-               "Go for a walk",
+               "I sometimes go for a walk",
                "Start work at 9:00 AM",
                "Finish work at 6:00 PM",
                "Go to a yoga class",
                "Have dinner",
-               "Read a book",
+               "Sometimes I rarely read a book",
                "Go to bed at 11:00 PM",
           ],
      },
      {
           weekDayName: "Wednesday",
           activities: [
-               "Wake up at 6:30 AM",
+               "Wake up at 6:00 AM",
                "Have breakfast",
                "Go for a run",
                "Start work at 8:30 AM",
@@ -61,13 +62,13 @@ export const weeklyActivityList: WeeklyActivityList = [
           activities: [
                "Wake up at 7:30 AM",
                "Have breakfast",
-               "Go for a bike ride",
+               "I seldom go for a bike ride",
                "Start work at 9:30 AM",
                "Finish work at 6:30 PM",
                "Go out with friends",
                "Have dinner",
                "Watch a movie",
-               "Go to bed at 12:00 AM",
+               "I occasionally go to bed at 12:00 AM",
           ],
      },
      {
@@ -76,7 +77,7 @@ export const weeklyActivityList: WeeklyActivityList = [
                "Wake up at 5:30 AM",
                "Have breaskfast",
                "Take a shower",
-               "Go to Asocim at 6:40AM",
+               "I usually go to Asocim at 6:40AM",
                "Arrive at Asocim at 7:50AM",
                "Study until 1:00PM",
                "Go to a random restaurant to have lunch",
@@ -90,11 +91,11 @@ export const weeklyActivityList: WeeklyActivityList = [
           weekDayName: "Sunday",
           activities: [
                "Wake up at 7:30AM",
-               "Watch TV",
+               "I always watch TV",
                "Have breakfast",
                "Watch Youtube",
                "Have lunch",
-               "Sleep all afternoon",
+               "Then I normally sleep all the afternoon",
                "Have dinner",
                "Go to bed at 10:00PM",
           ],

@@ -1,4 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    basePath: "/journal-asocim",
+    output: "export",
+};
 
 export default nextConfig;
