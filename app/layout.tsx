@@ -16,6 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <title>Fernando's Journal</title>
       <body className={`${urbanist.className}`}>{children}</body>
     </html>
   );
